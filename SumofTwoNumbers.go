@@ -1,3 +1,5 @@
+//Take two numbers and print the sum of both.
+
 package main
 
 import "fmt"
